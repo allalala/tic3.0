@@ -6,7 +6,7 @@ Service Provider Overlays map the TIC 3.0 security capabilities to functionality
 CISA is actively working with service providers to develop overlays.
 
 ## Sites and Links
-TIC 3.0 Page https://www.cisa.gov/trusted-internet-connections
+Official TIC Homepage https://www.cisa.gov/trusted-internet-connections
 
 TIC 3.0 Information for Federal Agencies https://community.max.gov/x/I4R_Ew
 
